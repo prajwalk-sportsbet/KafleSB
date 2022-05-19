@@ -1,1 +1,1 @@
-I am Prajwal, a data scientist in MarCus team. 
+I am Prajwal, data scientist within Marketing and Customer Data Science team at Sportsbet.
